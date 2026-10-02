@@ -18,7 +18,6 @@ Every claim is cited to a public source and a date. Seller screens show raw, dat
 
 - Public funding records from federal, state and local programs
 - 2,000+ municipalities, seeded across seven states: the six New England states plus Pennsylvania
-- 45,000+ NY/NJ nonprofits
 
 ## How it works
 
